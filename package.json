@@ -7,7 +7,7 @@
     "start":"npx @11ty/eleventy --serve --port=8888",
     "clean":"rd -r docs",
     "deploy":"npx @11ty/eleventy --pathprefix=/",
-    "deploy-subdomain":"npx @11ty/eleventy --pathprefix=/Wiki-finalp/"
+    "deploy-subdomain":"npx @11ty/eleventy --pathprefix=/wiki-finalp/"
   },
   "keywords": [],
   "author": "",
