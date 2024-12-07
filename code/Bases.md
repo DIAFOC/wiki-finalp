@@ -7,7 +7,7 @@ date: "2024"
 ---
 
 # Bases  
-  ## Basicos de la pureza del agua
+  ## Basicos de la pureza del agua.
     Siendo el agua el componente esencial en los seres basados en carbono no es extraño que uno de los principales enfoques modernos sea la de su preservación, pues la constante amenaza de la escasez de este recurso en un futuro cercano supone nuevos desafíos para la vida en nuestro planeta, aun cuando el agua es legalmente un derecho fundametal en la mayor parte del planeta, existen aun millones de personas que no cuentan con el acceso a agua potable para consumo, el agua es una parte fundamental de la salud publica y enter los basicos de la pureza del agua es fundamental para asegurar el bienestar de poblaciones y comunidades.
 
     El agua puede ser contaminada por una gran cantidad de compuestos quimicos, virus, bacterias, metales pesados,etc. Los cuales pueden provenir de varias fuentes como lo son desechos agricolas, industriales y humanos, si no se trata adecuadamente el agua puede provocar una gran cantidad de padecimientos grastroinstinales como lo son la colera y la fiebre tifoidea, hepaticos como intoxicacion por metales pesados, trastornos neurologicos como lo son los provocados por algunos parasitos que se alojan en la materia gris.
