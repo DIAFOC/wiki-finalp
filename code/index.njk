@@ -1,0 +1,16 @@
+---
+layout: layout-page.njk
+title: Pagina de inicio
+description: Metadescripcion de la pagina de inicio
+---
+
+<hi>{{ title }} </hi>
+
+
+</p>
+<ul>
+  {% for link in site.linksDoc %}
+    <li>
+      <a href="{{ link.url }}" target="_blank">{{ link.text | safe }}</a>
+    </li>
+  {% endfor %}
