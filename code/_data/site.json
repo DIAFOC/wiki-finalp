@@ -1,17 +1,17 @@
 {
-  "message": "Hola Mundo Eleventy 🦡🎈",
+  "message": "ZUp G",
   "linksDoc": [
     {
       "text": "Bases",
-      "url": "https://www.11ty.dev/docs/"
+      "url": "https://diafoc.github.io/wiki-finalp/Bases/"
     },
     {
       "text": "Trayectoria",
-      "url": "https://www.11ty.dev/mascot/"
+      "url": "https://diafoc.github.io/wiki-finalp/Trayectoria/"
     },
     {
       "text": "Documentaciónes",
-      "url": "https://mozilla.github.io/nunjucks/"
+      "url": "https://diafoc.github.io/wiki-finalp/Documentacion/"
     },
     {
       "text": "Curso de <i>11ty</i> de @jonmircha",

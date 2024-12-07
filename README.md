@@ -1,4 +1,1 @@
-No ha funcionado 
-
-Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
-                    No such file or directory @ dir_chdir0 - /github/workspace/docs
+El proyecto tiene previsto obtener la patente etre Q1 y Q2 2025
